@@ -17,6 +17,10 @@ PromptPamPuff is a tiny, native macOS menu bar app with a comic wink and a calm,
 
 This repository hosts **releases and downloads** for PromptPamPuff. Source code lives in a private repository; this is the public home for builds, issues, and installation instructions.
 
+<p align="center">
+	<img alt="PromptPamPuff settings window" src="Resources/Screenshots/Settings-en.png" width="480">
+</p>
+
 ## Contents
 
 - [PromptPamPuff](#promptpampuff)
